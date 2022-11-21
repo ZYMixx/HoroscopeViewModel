@@ -28,6 +28,10 @@ class MainActivity : AppCompatActivity() {
         setUpViewModel()
         setUpSpinner()
         setUpAcceptButton()
+
+        println("SECOND PRINT")
+        println("SECOND TEST")
+
     }
 
     private fun setUpViewModel() {
