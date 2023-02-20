@@ -1,3 +1,3 @@
 # HoroscopeViewModel
 test project
-![Gifcurry GUI](https://i.imgur.com/SJ8zovM.gif)
+!(https://i.imgur.com/SJ8zovM.gif)
